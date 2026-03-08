@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**vish-dumps/vish-dumps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vishwas**, a student at **IIT Kharagpur**.
 
-Here are some ideas to get you started:
+I enjoy building things that combine **AI, full-stack apps, and hardware projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is **C++, JavaScript, React, Node.js, and Arduino**.
+
+Currently focused on **DSA, AI applications, and scalable systems**.
+
+Some things I've built include **a Smart accident detection helmet, DSA Tracker, Focus extension**.
+
+Fun facts:
+
+* I like **video editing and visual storytelling**
+* I enjoy **psychology, anime, and creative tech projects**
+* If an idea excites me, I usually **try to build it** 🚀
